@@ -1,0 +1,1304 @@
+Company,Type_Name,Operating_System,Weight,Memory_Size_GB,Memory_Type,CPU_Name,GPU_Brand,is_Touchscreen,has_IPS,Screen_Types,PPI
+Apple,Ultrabook,Mac OS,1.37,128,SSD,Intel Core i5,Intel,0,1,Retina,226.98
+Apple,Ultrabook,Mac OS,1.34,128,Flash Storage,Intel Core i5,Intel,0,0,Other,127.68
+HP,Notebook,No OS,1.86,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Apple,Ultrabook,Mac OS,1.83,512,SSD,Intel Core i7,AMD,0,1,Retina,220.53
+Apple,Ultrabook,Mac OS,1.37,256,SSD,Intel Core i5,Intel,0,1,Retina,226.98
+Acer,Notebook,Windows,2.1,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Apple,Ultrabook,Mac OS,2.04,256,Flash Storage,Intel Core i7,Intel,0,1,Retina,220.53
+Apple,Ultrabook,Mac OS,1.34,256,Flash Storage,Intel Core i5,Intel,0,0,Other,127.68
+Asus,Ultrabook,Windows,1.3,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,157.35
+Acer,Ultrabook,Windows,1.6,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+HP,Notebook,No OS,1.86,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,No OS,1.86,500,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Apple,Ultrabook,Mac OS,1.83,256,SSD,Intel Core i7,AMD,0,1,Retina,220.53
+Dell,Notebook,Windows,2.2,256,SSD,Intel Core i3,AMD,0,0,Full HD,141.21
+Apple,Ultrabook,Mac OS,0.92,256,SSD,Other Intel Processor,Intel,0,1,Retina,226.42
+Apple,Ultrabook,Mac OS,1.37,256,SSD,Intel Core i5,Intel,0,1,Retina,226.98
+Dell,Notebook,Windows,2.2,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+Apple,Ultrabook,Mac OS,1.83,512,SSD,Intel Core i7,AMD,0,1,Retina,220.53
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.22,128,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Asus,Netbook,Windows,0.98,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Lenovo,Gaming,Windows,2.5,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+HP,Notebook,No OS,1.86,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Dell,2 in 1 Convertible,Windows,1.62,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+HP,Ultrabook,Windows,1.91,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Apple,Ultrabook,Mac OS,1.35,128,Flash Storage,Intel Core i5,Intel,0,0,Other,127.68
+Dell,Notebook,Windows,2.2,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.88,512,Hybrid,Intel Core i7,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,2.5,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,127.34
+Chuwi,Notebook,Windows,1.89,64,Flash Storage,Other Intel Processor,Intel,0,0,Full HD,141.21
+Asus,Notebook,Windows,1.65,32,Flash Storage,AMD Processor,AMD,0,0,Other,111.94
+HP,Notebook,Windows,2.71,500,HDD,AMD Processor,AMD,0,0,Full HD,127.34
+Dell,Ultrabook,Windows,1.2,512,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Apple,Ultrabook,Mac OS,1.35,256,Flash Storage,Intel Core i5,Intel,0,0,Other,127.68
+Lenovo,Notebook,Windows,1.44,64,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Acer,Notebook,Linux,2.1,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.8,1128,Hybrid,Intel Core i5,AMD,0,1,Full HD,127.34
+HP,Notebook,Windows,1.86,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.1,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Linux,2.0,1000,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Dell,Gaming,Windows,2.65,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Asus,Notebook,Linux,2.3,1000,HDD,Intel Core i5,Nvidia,0,0,Other,100.45
+Acer,Notebook,Windows,2.2,256,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,2.77,1000,HDD,Intel Core i5,Nvidia,1,0,Full HD,127.34
+Apple,Ultrabook,Mac OS,1.37,256,SSD,Intel Core i5,Intel,0,1,Retina,226.98
+Lenovo,Notebook,No OS,2.2,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,3.2,1256,Hybrid,AMD Processor,AMD,0,0,Full HD,127.34
+Dell,Notebook,Windows,2.3,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.8,1000,HDD,Other Intel Processor,Nvidia,0,0,Other,90.58
+Lenovo,2 in 1 Convertible,Android,0.69,64,Flash Storage,Other Intel Processor,Intel,1,1,Other,224.17
+Acer,Notebook,Windows,2.2,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.86,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+HP,Notebook,Windows,1.49,512,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Acer,Notebook,Windows,2.4,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.13,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,Notebook,Windows,1.91,128,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+MSI,Gaming,Windows,2.43,2256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Asus,Notebook,Linux,2.0,256,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.8,2256,Hybrid,Intel Core i7,AMD,0,0,Full HD,127.34
+Dell,Ultrabook,Windows,1.7,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,No OS,1.7,256,SSD,Intel Core i3,Intel,0,1,Full HD,157.35
+Asus,Notebook,Windows,1.4,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.86,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Ultrabook,Windows,1.8,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.86,500,HDD,Intel Core i3,AMD,0,0,Other,100.45
+HP,Notebook,Windows,1.44,32,SSD,Other Intel Processor,Intel,0,0,Other,111.94
+Lenovo,Notebook,Windows,1.9,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Gaming,Linux,3.0,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Microsoft,Ultrabook,Windows,1.252,128,SSD,Intel Core i5,Intel,1,0,Other,200.84
+Dell,Ultrabook,Windows,1.4,256,SSD,Intel Core i7,AMD,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.2,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.7,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,127.34
+Acer,Notebook,Windows,2.1,1000,HDD,Intel Core i3,Intel,0,0,Other,111.94
+Asus,Gaming,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,2000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.02,1128,Hybrid,Intel Core i7,Intel,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.2,1000,HDD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.5,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,127.34
+Dell,Ultrabook,Windows,1.88,256,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+Apple,Ultrabook,Mac OS,0.92,512,SSD,Intel Core i5,Intel,0,1,Retina,226.42
+HP,Notebook,Windows,1.63,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.2,128,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.1,1000,HDD,AMD Processor,AMD,0,0,Other,100.45
+Dell,Gaming,Windows,2.65,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Ultrabook,Windows,1.83,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.96,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.2,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Ultrabook,Windows,1.21,256,SSD,Intel Core i7,Intel,0,1,Full HD,165.63
+Asus,Gaming,Windows,2.45,1000,HDD,AMD Processor,AMD,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.49,512,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Dell,Gaming,Windows,2.65,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Asus,Ultrabook,Windows,1.25,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Acer,2 in 1 Convertible,Windows,1.5,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Dell,Notebook,Linux,2.2,1000,HDD,Intel Core i7,AMD,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.2,256,SSD,Intel Core i3,AMD,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,256,SSD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+HP,Gaming,Windows,2.62,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.91,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,Notebook,Windows,2.1,500,HDD,AMD Processor,AMD,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.2,1000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.38,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,165.63
+Microsoft,Ultrabook,Windows,1.252,256,SSD,Intel Core i5,Intel,1,0,Other,200.84
+HP,Notebook,Windows,1.58,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,157.35
+Lenovo,Notebook,Windows,1.85,1000,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Asus,Ultrabook,Windows,1.3,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,157.35
+MSI,Gaming,Windows,2.2,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.58,256,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+Asus,Ultrabook,Windows,1.5,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.23,256,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Lenovo,2 in 1 Convertible,Windows,1.37,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+HP,Notebook,Windows,1.63,500,HDD,Intel Core i5,Intel,0,1,Other,111.94
+Dell,Ultrabook,Windows,1.21,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+HP,2 in 1 Convertible,Windows,1.26,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+HP,Notebook,Windows,1.63,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.16,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Asus,Notebook,Windows,2.0,1000,HDD,Intel Core i3,Nvidia,0,0,Full HD,127.34
+Asus,Notebook,Windows,1.7,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.1,1000,HDD,Intel Core i3,Intel,1,1,Full HD,141.21
+MSI,Gaming,Windows,1.8,2256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.5,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Acer,Notebook,Windows,2.1,256,SSD,AMD Processor,AMD,0,0,Other,100.45
+HP,Notebook,No OS,1.86,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.63,1000,HDD,Intel Core i5,Intel,0,0,Full HD,157.35
+Asus,Notebook,Windows,1.65,64,SSD,AMD Processor,AMD,0,0,Other,111.94
+Dell,Notebook,Windows,2.8,2256,Hybrid,Intel Core i7,AMD,0,0,Full HD,127.34
+HP,Notebook,Windows,2.5,256,SSD,Intel Core i5,Intel,0,0,Full HD,127.34
+Dell,Notebook,Windows,2.36,1000,HDD,Intel Core i5,AMD,0,0,Other,100.45
+Dell,Notebook,Windows,2.2,1000,HDD,Intel Core i3,AMD,0,0,Full HD,141.21
+Acer,Ultrabook,Windows,1.6,256,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+Acer,Notebook,Windows,2.2,256,SSD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.05,1000,HDD,Intel Core i7,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.63,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,No OS,1.9,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,3.0,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.32,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Acer,Notebook,Windows,3.0,1000,HDD,Intel Core i3,Nvidia,0,1,Full HD,127.34
+Lenovo,Notebook,Windows,1.75,256,SSD,Intel Core i5,AMD,0,1,Full HD,157.35
+Lenovo,Gaming,No OS,2.4,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Toshiba,Notebook,Windows,2.1,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.86,256,SSD,AMD Processor,AMD,0,0,Other,100.45
+Asus,Ultrabook,Windows,1.25,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+HP,Ultrabook,Windows,0.97,512,SSD,Other Intel Processor,Intel,1,1,4K Ultra HD,352.47
+Asus,Notebook,Windows,2.0,1000,HDD,Other Intel Processor,Intel,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.9,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Acer,Notebook,Windows,2.1,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Gaming,Windows,2.56,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Gaming,Windows,2.62,1000,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.9,128,SSD,Intel Core i5,Intel,0,0,Other,100.45
+MSI,Gaming,Windows,2.8,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Ultrabook,Windows,1.48,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.91,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.74,256,SSD,Intel Core i3,Intel,1,1,Full HD,157.35
+Asus,2 in 1 Convertible,Windows,1.1,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+Dell,2 in 1 Convertible,Windows,1.56,256,SSD,Intel Core i7,Intel,1,0,Full HD,141.21
+Toshiba,Notebook,Windows,2.1,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,2.03,1000,HDD,AMD Processor,AMD,0,0,Other,100.45
+Acer,Notebook,Windows,3.0,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,127.34
+Dell,Notebook,Windows,2.13,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,2.5,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,Notebook,Windows,2.1,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+MSI,Gaming,Windows,2.4,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,Notebook,Windows,2.1,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Gaming,Windows,2.56,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,Notebook,Windows,3.0,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,127.34
+HP,Notebook,Windows,1.49,500,HDD,Intel Core i5,Intel,0,1,Full HD,165.63
+Huawei,Ultrabook,Windows,1.05,256,SSD,Intel Core i5,Intel,0,1,Full HD,199.69
+HP,Notebook,Windows,2.71,2000,HDD,Intel Core i5,AMD,0,1,Full HD,127.34
+Lenovo,Notebook,No OS,2.2,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Toshiba,Notebook,Windows,2.0,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.5,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,127.34
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Acer,Notebook,Windows,2.1,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+MSI,Gaming,Windows,4.4,1512,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,119.72
+Lenovo,Notebook,Windows,1.9,1128,Hybrid,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,2 in 1 Convertible,Windows,1.29,256,SSD,Intel Core i5,Intel,1,1,4K Ultra HD,331.26
+Dell,Notebook,Linux,2.02,2256,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.23,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Lenovo,2 in 1 Convertible,Windows,1.4,512,SSD,Intel Core i7,Intel,1,1,4K Ultra HD,316.97
+Toshiba,Notebook,Windows,2.0,128,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Xiaomi,Notebook,No OS,1.95,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.77,512,SSD,Intel Core i7,Nvidia,1,0,Full HD,127.34
+Dell,Notebook,Windows,2.06,512,SSD,Intel Core i7,Nvidia,1,0,4K Ultra HD,282.42
+Lenovo,Gaming,No OS,2.4,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Acer,Ultrabook,Windows,1.12,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.8,1128,Hybrid,Intel Core i7,AMD,0,0,Full HD,127.34
+Lenovo,2 in 1 Convertible,Windows,1.42,1000,SSD,Intel Core i7,Intel,1,0,Other,209.8
+Vero,Notebook,Windows,1.3,32,Flash Storage,Other Intel Processor,Intel,0,1,Full HD,157.35
+Xiaomi,Ultrabook,No OS,1.3,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,165.63
+Lenovo,Notebook,No OS,2.8,256,SSD,Intel Core i5,Nvidia,0,0,Other,106.11
+Dell,2 in 1 Convertible,Windows,1.62,1000,HDD,Intel Core i7,Intel,1,1,Full HD,165.63
+HP,Notebook,Windows,2.5,1000,HDD,Intel Core i5,Nvidia,0,1,Full HD,127.34
+Razer,Gaming,Windows,3.49,1000,SSD,Intel Core i7,Nvidia,1,0,4K Ultra HD,254.67
+HP,Notebook,Windows,1.49,512,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+HP,Gaming,Windows,3.35,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+HP,Notebook,Windows,2.5,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Gaming,Windows,2.65,1512,Hybrid,Intel Core i7,Nvidia,0,1,4K Ultra HD,282.42
+Lenovo,Notebook,Windows,2.1,128,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Acer,Notebook,Windows,2.23,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,3.2,1512,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Workstation,Windows,2.8,1256,Hybrid,Other Intel Processor,Nvidia,0,0,4K Ultra HD,282.42
+Lenovo,Gaming,No OS,2.4,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i3,Intel,1,0,Other,100.45
+Dell,Ultrabook,Windows,1.21,256,SSD,Intel Core i7,Intel,1,1,4K Ultra HD,331.26
+Dell,Ultrabook,Windows,1.2,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Lenovo,Notebook,Windows,2.2,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Acer,Notebook,Linux,2.4,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.9,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Notebook,No OS,2.1,500,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Huawei,Ultrabook,Windows,1.05,512,SSD,Intel Core i7,Intel,0,1,Full HD,199.69
+Dell,Ultrabook,Windows,1.4,256,SSD,Intel Core i7,AMD,0,1,Full HD,165.63
+Lenovo,Notebook,No OS,2.8,1000,HDD,Intel Core i5,Nvidia,0,0,Other,106.11
+HP,Notebook,Windows,1.63,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,157.35
+Dell,Ultrabook,Windows,1.6,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Dell,2 in 1 Convertible,Windows,1.62,512,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Dell,Notebook,Linux,2.2,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.74,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Toshiba,Ultrabook,Windows,1.2,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,2.1,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Gaming,Windows,4.42,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Acer,Notebook,Windows,2.2,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i7,AMD,1,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.69,756,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,127.34
+HP,Notebook,Windows,1.9,1000,HDD,Intel Core i7,AMD,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.37,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.1,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Lenovo,Gaming,Windows,3.2,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,1.6,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Acer,2 in 1 Convertible,Windows,1.6,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Dell,Notebook,Linux,2.36,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+Acer,Notebook,Linux,2.1,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,2.2,1128,Hybrid,AMD Processor,AMD,0,0,Full HD,141.21
+Asus,Gaming,Windows,4.7,1512,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Acer,Gaming,Windows,2.5,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,2.1,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Asus,Notebook,No OS,2.69,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Gaming,Windows,2.56,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.38,256,SSD,Intel Core i7,Intel,1,1,Full HD,158.48
+Dell,Notebook,Windows,2.2,2128,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,Notebook,Windows,2.04,1000,HDD,Intel Core i5,Intel,1,0,Other,100.45
+Asus,Gaming,Windows,3.6,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Notebook,Windows,1.49,500,HDD,Intel Core i5,Intel,0,1,Full HD,165.63
+Apple,Ultrabook,Mac OS,1.37,512,SSD,Intel Core i5,Intel,0,1,Retina,226.98
+Dell,2 in 1 Convertible,Windows,2.08,1000,HDD,Intel Core i7,Intel,1,1,Full HD,141.21
+Asus,Gaming,Windows,4.3,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Asus,Notebook,Windows,1.68,1000,HDD,AMD Processor,AMD,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.37,512,SSD,Intel Core i7,Intel,1,1,Full HD,158.48
+Acer,Notebook,Windows,3.0,256,SSD,Intel Core i3,Nvidia,0,1,Full HD,127.34
+Dell,Ultrabook,Windows,1.41,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,1.91,128,SSD,AMD Processor,AMD,0,0,Other,100.45
+HP,Notebook,Windows,2.9,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+MSI,Gaming,Windows,4.14,1512,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,2 in 1 Convertible,Windows,2.0,512,SSD,Intel Core i7,Nvidia,1,1,Full HD,141.21
+Dell,Notebook,Windows,2.8,1128,Hybrid,Intel Core i7,AMD,0,0,Full HD,127.34
+Lenovo,Notebook,No OS,2.2,256,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,2.1,500,HDD,Intel Core i5,Intel,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.24,1000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,2.67,256,SSD,Intel Core i5,Intel,1,0,Full HD,141.21
+Asus,2 in 1 Convertible,Windows,1.1,1024,Hybrid,Intel Core i7,Intel,1,0,Full HD,165.63
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,2.5,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,2.05,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+Apple,Ultrabook,Mac OS,1.37,512,SSD,Intel Core i5,Intel,0,1,Retina,226.98
+Asus,Gaming,Windows,3.2,1256,Hybrid,AMD Processor,AMD,0,0,Full HD,127.34
+Dell,Notebook,Linux,2.14,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.36,512,SSD,Intel Core i7,Intel,1,0,Other,209.8
+Toshiba,Notebook,Windows,2.2,500,HDD,Intel Core i7,Nvidia,0,0,Other,100.45
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i7,Intel,0,0,Other,100.45
+Dell,Notebook,Linux,2.8,1128,Hybrid,Intel Core i7,AMD,0,0,Full HD,127.34
+Acer,Notebook,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.8,1000,HDD,Intel Core i3,Intel,0,0,Other,106.11
+Lenovo,Notebook,No OS,2.8,2000,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,2.8,1128,Hybrid,Intel Core i7,Nvidia,0,0,Other,106.11
+Dell,Notebook,Linux,2.25,1000,HDD,Intel Core i3,AMD,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,2.5,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Acer,Notebook,Windows,3.0,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,Notebook,Windows,2.15,1000,HDD,Intel Core i7,Intel,1,1,Full HD,141.21
+Lenovo,Notebook,Windows,1.95,256,SSD,Intel Core i7,Intel,0,1,Full HD,141.21
+Asus,Ultrabook,Windows,1.7,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,2.5,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,Notebook,Chrome OS,2.19,16,SSD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,3.0,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Notebook,Windows,2.54,1000,HDD,Intel Core i3,Intel,0,0,Other,106.11
+Dell,Notebook,Windows,2.0,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.05,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,3.2,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,Notebook,Linux,2.5,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Workstation,Windows,3.42,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,2.4,1000,HDD,AMD Processor,AMD,0,0,Full HD,141.21
+Asus,Ultrabook,Windows,1.63,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,1.3,128,SSD,Intel Core i3,Intel,0,0,Other,111.94
+Asus,Gaming,Windows,2.9,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,2.8,1000,HDD,Intel Core i5,Nvidia,0,0,Other,106.11
+Lenovo,Notebook,No OS,2.2,2000,HDD,Intel Core i5,Nvidia,0,0,Other,100.45
+Asus,Gaming,Windows,2.5,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,2 in 1 Convertible,Windows,1.28,256,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Toshiba,Notebook,Windows,2.2,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.3,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.86,1000,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.1,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Dell,Ultrabook,Windows,1.21,1000,SSD,Intel Core i7,Intel,1,1,4K Ultra HD,331.26
+MSI,Gaming,Windows,2.8,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,Notebook,Windows,2.23,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Asus,2 in 1 Convertible,Windows,1.1,32,Flash Storage,Other Intel Processor,Intel,1,0,Other,135.09
+Dell,Notebook,Windows,2.33,1128,Hybrid,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,2 in 1 Convertible,Windows,1.29,1000,SSD,Intel Core i7,Intel,1,1,4K Ultra HD,331.26
+Lenovo,Notebook,Chrome OS,1.45,16,Flash Storage,Other Intel Processor,Intel,0,0,Other,117.83
+HP,Notebook,Windows,1.95,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Acer,Notebook,Windows,1.4,128,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+HP,Notebook,Windows,1.48,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.79,1000,HDD,Intel Core i5,Nvidia,0,0,Other,106.11
+Asus,Notebook,Windows,2.0,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,2.1,1000,HDD,Intel Core i7,Intel,0,1,Full HD,100.45
+Acer,Notebook,Windows,2.2,256,SSD,AMD Processor,AMD,0,0,Other,100.45
+Lenovo,Notebook,Windows,1.44,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Acer,Notebook,Windows,2.23,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Asus,Ultrabook,Windows,1.7,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.26,256,SSD,Intel Core i7,Intel,0,0,Full HD,176.23
+Dell,Notebook,Windows,2.06,1000,SSD,Intel Core i7,Nvidia,1,0,4K Ultra HD,282.42
+MSI,Gaming,Windows,2.7,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Toshiba,Notebook,Windows,2.0,256,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+Asus,Notebook,Windows,2.0,1256,Hybrid,Intel Core i7,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,1.85,1000,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.5,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.48,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Dell,Ultrabook,Windows,1.9,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.84,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Notebook,Linux,2.0,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.0,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.2,2000,HDD,AMD Processor,AMD,0,0,Full HD,141.21
+HP,Notebook,Windows,2.1,1000,HDD,Intel Core i3,Nvidia,0,1,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.4,512,SSD,Intel Core i7,Intel,1,1,4K Ultra HD,316.97
+Dell,Ultrabook,Windows,1.2,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Lenovo,Gaming,Windows,2.4,2256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.44,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Dell,Ultrabook,Windows,1.88,768,Hybrid,Intel Core i7,Intel,0,0,Full HD,141.21
+Asus,2 in 1 Convertible,Windows,1.5,32,Flash Storage,Other Intel Processor,Intel,1,0,Other,135.09
+Dell,Ultrabook,Windows,1.9,1000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.06,512,SSD,Intel Core i7,Nvidia,1,0,4K Ultra HD,282.42
+HP,Notebook,Windows,1.84,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.7,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Workstation,Windows,2.6,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Toshiba,Notebook,Windows,2.4,512,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.02,2128,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Gaming,Windows,2.65,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.36,2000,HDD,Intel Core i5,Intel,1,0,Other,100.45
+Dell,Notebook,Windows,1.36,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.86,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,2.0,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.8,1128,Hybrid,Intel Core i5,Nvidia,0,0,Other,106.11
+HP,Notebook,Windows,1.86,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,256,SSD,Intel Core i3,Nvidia,0,0,Other,100.45
+HP,Notebook,Windows,2.04,2000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.8,1128,Hybrid,Intel Core i5,AMD,0,0,Full HD,127.34
+Lenovo,Gaming,No OS,2.4,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.33,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.36,256,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+Asus,2 in 1 Convertible,Windows,2.26,2512,Hybrid,Intel Core i7,Nvidia,1,0,Full HD,141.21
+Acer,Notebook,Windows,2.1,128,SSD,AMD Processor,AMD,0,0,Other,100.45
+Asus,Gaming,Windows,3.25,1256,Hybrid,AMD Processor,AMD,0,1,Full HD,127.34
+Lenovo,Notebook,Windows,2.6,128,SSD,AMD Processor,AMD,0,0,Other,106.11
+Dell,2 in 1 Convertible,Windows,1.62,256,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+HP,Notebook,Windows,1.91,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Lenovo,Netbook,Windows,1.59,128,SSD,Other Intel Processor,Intel,0,1,Other,135.09
+Dell,Notebook,Windows,1.8,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,1.5,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Acer,Notebook,Linux,2.4,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Gaming,Windows,3.35,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Lenovo,Notebook,No OS,1.85,128,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.3,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,1.5,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,157.35
+Asus,Ultrabook,Windows,1.1,512,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Lenovo,Ultrabook,Windows,1.13,512,SSD,Intel Core i7,Intel,0,1,Other,209.8
+Lenovo,Notebook,Windows,1.5,128,SSD,Intel Core i3,Intel,0,1,Full HD,165.63
+Dell,Workstation,Windows,2.23,500,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,Workstation,Windows,2.0,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.42,512,SSD,Intel Core i7,Intel,1,0,Other,209.8
+Asus,Gaming,Windows,3.0,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Asus,Gaming,Windows,3.0,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Acer,Notebook,Windows,2.2,1000,HDD,Intel Core i5,Nvidia,0,1,Other,100.45
+MSI,Gaming,Windows,2.7,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Notebook,Linux,2.33,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.91,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.1,256,SSD,Intel Core i7,AMD,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,1.9,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Dell,Workstation,Windows,1.78,256,SSD,Intel Core i7,Nvidia,1,0,4K Ultra HD,282.42
+Lenovo,Ultrabook,Windows,1.13,1000,SSD,Intel Core i7,Intel,0,1,Other,209.8
+Lenovo,Notebook,Windows,2.2,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,2.9,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,2.1,1256,Hybrid,Intel Core i5,AMD,0,1,Full HD,141.21
+Acer,Notebook,Linux,2.5,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.8,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Asus,Ultrabook,Windows,1.1,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Toshiba,Ultrabook,Windows,1.2,512,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Dell,Ultrabook,Windows,1.36,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.2,500,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.15,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Lenovo,Workstation,Windows,2.67,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Ultrabook,Windows,1.7,512,SSD,Intel Core i7,Nvidia,0,1,Full HD,209.8
+HP,Notebook,Windows,2.1,1000,HDD,Intel Core i3,AMD,0,0,Full HD,141.21
+Acer,2 in 1 Convertible,Windows,1.6,256,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+Asus,2 in 1 Convertible,Windows,1.27,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Dell,Notebook,Linux,2.3,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,Notebook,Windows,1.65,128,SSD,Intel Core i3,Intel,0,0,Other,117.83
+HP,Ultrabook,Windows,1.43,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.14,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Ultrabook,Windows,1.75,256,SSD,Intel Core i7,AMD,0,1,Full HD,157.35
+Lenovo,2 in 1 Convertible,Windows,2.0,512,SSD,Intel Core i7,Nvidia,1,1,4K Ultra HD,282.42
+Chuwi,Notebook,Windows,1.4,64,Flash Storage,Other Intel Processor,Intel,0,1,Retina,267.34
+HP,Notebook,Windows,2.31,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+Asus,Notebook,Linux,2.3,1000,HDD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+Dell,Gaming,Windows,4.42,1256,Hybrid,Intel Core i7,Nvidia,0,1,Other,169.78
+Dell,Gaming,Windows,2.62,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.02,2256,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+Dell,Ultrabook,Linux,1.6,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+HP,Gaming,Windows,3.35,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Mediacom,2 in 1 Convertible,Windows,1.16,32,SSD,Other Intel Processor,Intel,1,1,Full HD,189.91
+Samsung,Netbook,Chrome OS,1.15,16,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Lenovo,Notebook,Windows,1.4,256,SSD,Intel Core i7,Intel,0,1,Full HD,165.63
+Lenovo,Notebook,Windows,1.7,128,SSD,Intel Core i3,Intel,0,1,Full HD,157.35
+Lenovo,Workstation,Windows,2.3,512,SSD,Intel Core i7,Nvidia,0,1,4K Ultra HD,282.42
+Lenovo,Notebook,Windows,2.5,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Gaming,Windows,3.2,1256,Hybrid,AMD Processor,AMD,0,0,Full HD,127.34
+HP,Notebook,Windows,2.1,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Google,Ultrabook,Chrome OS,1.1,512,SSD,Intel Core i7,Intel,1,0,Other,234.51
+Lenovo,Ultrabook,Windows,1.32,512,SSD,Intel Core i7,Intel,0,0,Other,209.8
+Asus,Notebook,Linux,2.0,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.8,1000,HDD,AMD Processor,AMD,0,0,Other,106.11
+Dell,Notebook,Windows,2.2,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Lenovo,Ultrabook,Windows,1.36,256,SSD,Intel Core i5,Intel,0,1,Full HD,176.23
+Lenovo,Notebook,Windows,2.2,128,SSD,Other Intel Processor,Intel,0,0,Full HD,141.21
+HP,Gaming,Windows,2.2,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,1.64,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,157.35
+Acer,Notebook,Linux,2.4,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Dell,Workstation,Windows,2.23,1064,Hybrid,Other Intel Processor,Nvidia,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.2,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Microsoft,Ultrabook,Windows,1.25,512,SSD,Intel Core i7,Intel,1,0,Other,200.84
+HP,Notebook,Windows,1.91,128,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Dell,Workstation,Windows,2.17,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Workstation,Windows,2.31,512,SSD,Intel Core i7,Intel,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,1.65,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.36,1128,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.47,500,HDD,Other Intel Processor,Intel,1,0,Other,135.09
+Dell,Notebook,Windows,4.42,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Microsoft,Ultrabook,Windows,1.252,128,SSD,Other Intel Processor,Intel,1,0,Other,200.84
+Microsoft,Ultrabook,Windows,1.25,256,SSD,Intel Core i7,Intel,1,0,Other,200.84
+HP,Notebook,Windows,2.5,256,SSD,Intel Core i3,Intel,0,0,Other,106.11
+Acer,Notebook,Windows,2.23,1000,HDD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+Acer,Netbook,Windows,1.4,128,SSD,Other Intel Processor,Intel,0,0,Other,135.09
+Asus,Notebook,Windows,2.37,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,1.5,512,SSD,Intel Core i7,AMD,0,1,Full HD,157.35
+Lenovo,Notebook,Windows,2.67,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Acer,Notebook,Windows,2.2,500,HDD,Intel Core i3,Nvidia,0,0,Other,100.45
+Dell,Notebook,Windows,2.02,2000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,Gaming,Windows,3.78,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Lenovo,Ultrabook,Windows,1.4,256,SSD,Intel Core i7,Intel,0,1,Quad HD,209.8
+HP,2 in 1 Convertible,Windows,1.29,512,SSD,Intel Core i7,Intel,1,1,4K Ultra HD,331.26
+HP,Notebook,Windows,1.9,500,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Google,Ultrabook,Chrome OS,1.1,128,SSD,Intel Core i5,Intel,1,0,Other,234.51
+Dell,Ultrabook,Windows,1.42,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+Asus,Notebook,Windows,2.06,1128,Hybrid,Intel Core i7,Intel,0,1,4K Ultra HD,282.42
+Dell,Notebook,Windows,1.79,128,SSD,Intel Core i3,Intel,0,0,Other,111.94
+Dell,Workstation,Windows,1.78,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.7,180,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.2,1000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Toshiba,Notebook,Windows,1.05,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.16,512,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.49,128,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Chuwi,Notebook,Windows,1.89,64,Flash Storage,Other Intel Processor,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.3,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,1.75,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Dell,Workstation,Windows,2.17,512,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.06,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Ultrabook,Windows,1.36,512,SSD,Intel Core i7,Intel,0,1,Full HD,176.23
+Asus,Ultrabook,Windows,0.91,512,SSD,Intel Core i7,Intel,0,0,Full HD,176.23
+Lenovo,Notebook,Windows,2.3,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Toshiba,Ultrabook,Windows,1.05,512,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Asus,Gaming,Windows,1.99,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.2,1000,HDD,AMD Processor,AMD,0,0,Other,100.45
+Asus,Gaming,Windows,4.33,1256,Hybrid,Intel Core i7,Nvidia,1,1,Full HD,127.34
+Lenovo,Ultrabook,Windows,1.3,180,SSD,Intel Core i5,Intel,0,1,Other,125.37
+Lenovo,Notebook,Windows,2.17,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,1.48,1000,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,1.4,256,SSD,Intel Core i3,Intel,0,1,Full HD,165.63
+Lenovo,Notebook,Windows,2.3,256,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+Asus,Netbook,Windows,1.2,64,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+HP,Notebook,Windows,1.91,256,SSD,Intel Core i5,AMD,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.4,256,SSD,Intel Core i5,Intel,1,1,Full HD,158.48
+Lenovo,Notebook,Windows,2.1,500,HDD,Other Intel Processor,Intel,0,0,Other,111.94
+Lenovo,Netbook,Chrome OS,1.25,16,SSD,Other Intel Processor,Intel,0,0,Other,135.09
+Lenovo,Notebook,Windows,1.44,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Asus,Notebook,Windows,2.0,1256,Hybrid,Intel Core i7,Intel,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.2,1000,HDD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+HP,Ultrabook,Windows,1.34,512,SSD,Intel Core i7,Intel,0,1,Full HD,165.63
+Lenovo,Gaming,No OS,2.4,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Ultrabook,Windows,1.29,128,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Acer,Notebook,Windows,2.2,500,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.2,2256,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+Xiaomi,Notebook,No OS,1.95,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Asus,Netbook,Windows,1.1,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+HP,Notebook,Windows,2.04,1000,HDD,Intel Core i5,Intel,1,0,Other,100.45
+Asus,Gaming,Windows,2.24,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.04,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Asus,Gaming,Windows,3.0,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Gaming,Windows,3.2,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Ultrabook,Windows,1.32,256,SSD,Intel Core i7,Intel,0,1,Full HD,165.63
+Dell,Notebook,Windows,1.64,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.63,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Linux,2.8,1128,Hybrid,Intel Core i5,AMD,0,1,Full HD,127.34
+Lenovo,Notebook,Windows,2.02,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.2,2000,HDD,Intel Core i3,Nvidia,0,0,Other,100.45
+Dell,Notebook,Windows,2.3,500,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,Notebook,Windows,1.9,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Gaming,Windows,4.42,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Toshiba,Notebook,Windows,2.0,500,HDD,Intel Core i5,Intel,0,1,Full HD,141.21
+Asus,Notebook,Windows,2.0,1256,Hybrid,Intel Core i7,Nvidia,0,1,4K Ultra HD,282.42
+Mediacom,Notebook,Windows,1.2,32,SSD,Other Intel Processor,Intel,0,1,Full HD,165.63
+Asus,Gaming,Windows,2.3,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,1.93,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.2,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,Notebook,Windows,1.86,256,SSD,Other Intel Processor,Intel,0,0,Full HD,141.21
+HP,Gaming,Windows,2.62,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,1.87,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,157.35
+Dell,Ultrabook,Windows,1.2,256,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Dell,Notebook,Windows,1.6,128,SSD,Intel Core i3,Intel,0,0,Full HD,157.35
+HP,Ultrabook,Windows,1.34,256,SSD,Intel Core i7,Intel,0,1,Quad HD,276.05
+Acer,Gaming,Linux,2.4,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+HP,Notebook,Windows,2.1,128,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.87,500,HDD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,No OS,2.15,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,1.86,500,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.99,512,SSD,Intel Core i7,Intel,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,128,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,1.9,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Gaming,Windows,4.42,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+HP,Notebook,Windows,2.65,1000,HDD,Intel Core i3,Intel,0,0,Other,106.11
+HP,Notebook,Windows,2.63,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Asus,Notebook,Linux,2.0,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Mediacom,Notebook,Windows,1.35,32,Flash Storage,Other Intel Processor,Intel,0,1,Full HD,165.63
+Lenovo,Notebook,Windows,2.8,1128,Hybrid,Intel Core i7,Nvidia,0,0,Other,106.11
+HP,Notebook,Windows,1.91,128,SSD,AMD Processor,AMD,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i3,AMD,0,0,Other,100.45
+Acer,2 in 1 Convertible,Windows,1.25,32,Flash Storage,Other Intel Processor,Intel,1,1,Full HD,189.91
+Lenovo,Notebook,Windows,2.05,128,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.16,512,SSD,Other Intel Processor,Intel,1,1,Quad HD,276.05
+Lenovo,Notebook,Windows,3.4,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Asus,Notebook,Windows,2.5,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.21,128,SSD,Intel Core i5,Intel,1,1,4K Ultra HD,331.26
+Dell,Notebook,Windows,1.93,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Fujitsu,Notebook,Windows,2.2,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.02,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+HP,Workstation,Windows,3.14,500,HDD,Intel Core i5,Nvidia,0,0,Other,106.11
+HP,Notebook,Windows,1.94,2000,HDD,Other Intel Processor,Intel,0,0,Other,111.94
+HP,Notebook,Windows,1.95,256,SSD,AMD Processor,AMD,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.3,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.05,500,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Mediacom,Notebook,Windows,1.4,32,SSD,Other Intel Processor,Intel,0,0,Full HD,157.35
+Toshiba,Ultrabook,Windows,1.24,512,SSD,Intel Core i7,Intel,1,0,Full HD,157.35
+Lenovo,Gaming,Windows,4.6,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+MSI,Gaming,Windows,4.14,1512,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Notebook,Linux,2.2,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+Mediacom,Notebook,Windows,1.45,32,SSD,Other Intel Processor,Intel,0,1,Full HD,157.35
+Dell,Notebook,Windows,1.9,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.49,128,SSD,Intel Core i3,Intel,0,0,Full HD,165.63
+Dell,Notebook,Windows,1.93,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Netbook,Chrome OS,1.26,16,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+MSI,Gaming,Windows,4.5,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Gaming,Windows,3.78,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Lenovo,Ultrabook,Windows,1.4,256,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+Lenovo,Notebook,Windows,2.2,1000,HDD,Intel Core i7,Intel,1,0,Other,100.45
+Asus,Gaming,Windows,2.73,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,127.34
+Asus,2 in 1 Convertible,Windows,2.2,1000,HDD,Intel Core i5,Intel,1,0,Other,100.45
+Lenovo,Notebook,Windows,2.2,512,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.39,128,SSD,Other Intel Processor,Intel,1,0,Other,135.09
+Samsung,Notebook,Windows,2.5,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,2.8,500,HDD,Intel Core i3,Intel,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,2.29,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.37,512,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+Lenovo,Notebook,Windows,1.7,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Dell,2 in 1 Convertible,Windows,1.34,256,SSD,Intel Core i5,Intel,1,0,Full HD,176.23
+Dell,Workstation,Windows,2.06,256,SSD,Intel Core i7,Nvidia,1,0,Full HD,141.21
+HP,Notebook,Windows,1.84,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,2.1,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Acer,Notebook,Windows,1.6,32,Flash Storage,Other Intel Processor,Intel,0,0,Full HD,157.35
+MSI,Gaming,Windows,4.14,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Notebook,Linux,2.18,1000,HDD,Intel Core i3,AMD,0,0,Other,100.45
+MSI,Gaming,Windows,1.8,2256,Hybrid,Intel Core i7,Nvidia,0,0,4K Ultra HD,282.42
+Toshiba,Notebook,Windows,2.2,256,SSD,Intel Core i7,Intel,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.4,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,2.0,256,SSD,Intel Core i7,Intel,1,1,Full HD,141.21
+Acer,Notebook,Windows,1.6,128,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Lenovo,Notebook,Windows,2.5,1000,SSD,Other Intel Processor,Nvidia,0,1,4K Ultra HD,282.42
+Dell,Gaming,Windows,2.59,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.18,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Linux,2.25,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Linux,1.93,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,3.0,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Notebook,Linux,2.18,128,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.84,512,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.94,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,2 in 1 Convertible,Chrome OS,1.25,32,Flash Storage,Other Intel Processor,Intel,1,1,Other,135.09
+HP,Notebook,Windows,2.31,256,SSD,Intel Core i5,Intel,0,0,Other,111.94
+Lenovo,Notebook,Windows,1.65,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.2,1000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Fujitsu,Notebook,Windows,2.2,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.88,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Mediacom,Notebook,Windows,1.4,32,Flash Storage,Other Intel Processor,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,No OS,2.2,128,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,2 in 1 Convertible,Windows,1.5,1000,HDD,Intel Core i5,Intel,1,0,Full HD,165.63
+Dell,Notebook,Windows,2.0,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Ultrabook,Windows,1.1,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Dell,Gaming,Windows,2.62,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.8,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,1000,HDD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,1.99,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.23,256,SSD,Intel Core i5,Intel,1,0,Quad HD,276.05
+Lenovo,Notebook,Windows,1.42,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Lenovo,2 in 1 Convertible,Windows,1.37,256,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+Dell,Notebook,Windows,2.06,1000,SSD,Intel Core i7,Nvidia,1,0,4K Ultra HD,282.42
+Lenovo,Gaming,Windows,2.5,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,2.6,1000,HDD,AMD Processor,AMD,0,0,Other,107.99
+Lenovo,Ultrabook,Windows,1.14,512,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+Asus,Gaming,No OS,2.5,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,Notebook,Windows,2.4,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,1.43,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Acer,Ultrabook,Windows,1.8,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Razer,Gaming,Windows,1.95,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,157.35
+Toshiba,Notebook,Windows,1.2,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Lenovo,Ultrabook,Windows,1.36,256,SSD,Intel Core i7,Intel,0,1,Full HD,176.23
+Asus,Gaming,Windows,3.8,512,SSD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Acer,Gaming,Linux,2.4,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.2,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+MSI,Gaming,Windows,2.2,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,No OS,1.86,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Toshiba,Notebook,Windows,2.0,500,HDD,Intel Core i5,Intel,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.2,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.2,2256,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,3.31,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Gaming,Windows,4.42,1512,Hybrid,Intel Core i7,Nvidia,0,1,4K Ultra HD,254.67
+Dell,Notebook,Windows,1.56,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.2,500,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,2.04,1000,HDD,Intel Core i3,AMD,0,0,Other,141.21
+MSI,Gaming,Windows,2.7,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Toshiba,Notebook,Windows,2.1,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.06,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,2.1,1000,HDD,Intel Core i7,AMD,0,0,Full HD,141.21
+Toshiba,Notebook,Windows,2.0,256,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+Acer,Notebook,Linux,2.1,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Microsoft,Ultrabook,Windows,1.252,256,SSD,Intel Core i7,Intel,1,0,Other,200.84
+Lenovo,Notebook,Windows,1.9,1128,Hybrid,Intel Core i5,AMD,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.3,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Lenovo,Notebook,Windows,2.2,128,SSD,AMD Processor,AMD,0,0,Other,100.45
+HP,2 in 1 Convertible,Windows,1.63,128,SSD,Intel Core i3,Nvidia,1,1,Full HD,157.35
+MSI,Gaming,Windows,2.4,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Ultrabook,Windows,1.1,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,2 in 1 Convertible,Chrome OS,1.4,64,Flash Storage,Other Intel Processor,Intel,1,0,Other,135.09
+LG,Ultrabook,Windows,1.09,512,SSD,Intel Core i7,Intel,0,1,Full HD,141.21
+Acer,Gaming,Windows,2.5,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.2,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,1.86,128,SSD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Gaming,Windows,3.21,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.5,256,SSD,Intel Core i3,AMD,0,1,Full HD,127.34
+Lenovo,2 in 1 Convertible,Windows,1.19,512,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+Dell,Gaming,Windows,3.49,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.86,500,HDD,Intel Core i5,AMD,0,0,Other,100.45
+Dell,Notebook,Windows,2.2,1000,HDD,Intel Core i3,AMD,0,0,Other,100.45
+HP,Notebook,Windows,2.65,2000,HDD,AMD Processor,AMD,0,1,Full HD,127.34
+Lenovo,Notebook,Windows,2.1,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Acer,Notebook,Chrome OS,1.45,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Lenovo,Notebook,Windows,1.7,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Workstation,Windows,3.14,500,HDD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,2 in 1 Convertible,Windows,1.42,256,SSD,Intel Core i7,Intel,1,0,Other,209.8
+Toshiba,Notebook,Windows,1.5,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Acer,Netbook,Windows,1.4,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Lenovo,2 in 1 Convertible,Windows,1.38,512,SSD,Intel Core i7,Intel,1,0,Full HD,157.35
+Asus,2 in 1 Convertible,Chrome OS,1.2,64,Flash Storage,Other Intel Processor,Intel,1,0,Full HD,176.23
+Toshiba,Ultrabook,Windows,1.36,512,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+HP,Notebook,Windows,2.1,500,HDD,Intel Core i7,AMD,0,1,Full HD,141.21
+Dell,Gaming,Windows,2.56,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,1000,HDD,AMD Processor,AMD,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.1,2000,Hybrid,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,1.9,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.18,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Acer,2 in 1 Convertible,Windows,1.6,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Lenovo,Workstation,Windows,2.18,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.8,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,2.71,2000,HDD,AMD Processor,AMD,0,1,Full HD,127.34
+Lenovo,Gaming,Windows,2.5,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Linux,1.64,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,157.35
+Dell,Notebook,Linux,1.98,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Notebook,Windows,1.5,32,Flash Storage,Other Intel Processor,Intel,0,0,Full HD,157.35
+Dell,Notebook,Windows,1.93,512,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.87,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,157.35
+Dell,Notebook,Windows,1.9,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.19,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Mediacom,Notebook,Windows,1.4,32,HDD,Other Intel Processor,Intel,0,1,Full HD,161.73
+HP,Notebook,Windows,2.63,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Ultrabook,Windows,1.17,512,SSD,Intel Core i7,Intel,0,1,Quad HD,209.8
+HP,2 in 1 Convertible,Windows,1.58,256,SSD,Intel Core i5,Intel,1,1,Other,117.83
+Lenovo,Ultrabook,Windows,1.32,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Dell,Gaming,Windows,4.36,2000,Hybrid,Intel Core i7,Nvidia,0,0,4K Ultra HD,254.67
+MSI,Gaming,Windows,2.7,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,No OS,1.9,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.2,1128,Hybrid,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.71,1000,HDD,Intel Core i3,Intel,1,0,Full HD,165.63
+Dell,Notebook,Linux,2.32,1000,HDD,Intel Core i5,AMD,0,0,Other,100.45
+HP,Notebook,Windows,2.1,1000,HDD,AMD Processor,AMD,0,0,Full HD,141.21
+Acer,Gaming,Windows,4.2,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Notebook,Windows,2.25,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.1,1128,Hybrid,AMD Processor,AMD,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.4,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,1.44,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Lenovo,Notebook,Windows,1.85,1000,HDD,Intel Core i7,Intel,0,0,Full HD,141.21
+HP,Workstation,Windows,2.6,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.55,1000,HDD,Intel Core i5,Intel,1,0,Full HD,165.63
+MSI,Gaming,Windows,1.8,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.4,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.0,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.0,256,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Toshiba,Notebook,Windows,1.25,256,SSD,Intel Core i5,Intel,1,1,Full HD,157.35
+Lenovo,2 in 1 Convertible,Windows,1.7,256,SSD,Intel Core i5,Intel,1,0,Full HD,157.35
+Lenovo,Workstation,Windows,2.5,1000,SSD,Intel Core i7,Nvidia,0,1,4K Ultra HD,282.42
+Acer,Notebook,Chrome OS,1.68,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Samsung,Ultrabook,Windows,0.81,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,1.86,256,SSD,Intel Core i3,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,1.6,256,SSD,Intel Core i5,Intel,0,0,Other,111.94
+HP,Workstation,Windows,3.0,256,SSD,Other Intel Processor,Nvidia,0,1,Full HD,127.34
+Lenovo,Netbook,Windows,1.4,128,SSD,Other Intel Processor,Intel,1,0,Other,135.09
+HP,Notebook,Windows,1.84,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Notebook,No OS,2.45,1000,HDD,Intel Core i5,Nvidia,0,0,Other,100.45
+Lenovo,Ultrabook,Windows,1.7,180,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Asus,Notebook,Windows,2.37,256,SSD,Intel Core i7,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.3,256,SSD,Intel Core i5,Intel,1,1,Quad HD,276.05
+HP,Notebook,Windows,2.2,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+HP,Workstation,Windows,2.59,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Gaming,Windows,4.42,1256,Hybrid,Intel Core i7,Nvidia,0,1,4K Ultra HD,282.42
+Acer,Notebook,Windows,2.1,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Gaming,Windows,2.5,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Ultrabook,Windows,1.18,256,SSD,Intel Core i7,Intel,0,0,Full HD,176.23
+Google,Ultrabook,Chrome OS,1.1,256,SSD,Intel Core i5,Intel,1,0,Other,234.51
+Asus,Ultrabook,Windows,1.2,256,SSD,Intel Core i5,Intel,0,1,Quad HD,276.05
+Dell,Notebook,Windows,1.65,500,HDD,Intel Core i3,Intel,0,0,Other,117.83
+Acer,Notebook,Windows,1.6,128,SSD,Intel Core i5,Intel,0,0,Other,117.83
+Asus,Notebook,Windows,2.8,1000,HDD,Other Intel Processor,Nvidia,0,0,Other,90.58
+Dell,Gaming,Windows,2.72,1128,Hybrid,Intel Core i7,Nvidia,1,1,4K Ultra HD,282.42
+Samsung,Ultrabook,Windows,1.31,256,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Acer,Notebook,Linux,2.1,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.3,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+Samsung,2 in 1 Convertible,Windows,1.71,256,SSD,Intel Core i7,AMD,1,0,Full HD,146.86
+Toshiba,Notebook,Windows,1.75,128,SSD,Intel Core i5,Intel,0,1,Other,111.94
+Dell,Gaming,Windows,2.62,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.26,256,SSD,Intel Core i5,Intel,0,0,Other,125.37
+Asus,2 in 1 Convertible,Windows,2.3,2000,HDD,Intel Core i7,Nvidia,1,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.5,512,SSD,Intel Core i7,Nvidia,0,0,4K Ultra HD,282.42
+Acer,Notebook,Windows,1.8,128,SSD,Intel Core i3,Intel,0,1,Full HD,157.35
+Razer,Gaming,Windows,1.95,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,157.35
+Asus,Notebook,Windows,2.0,128,SSD,Other Intel Processor,Intel,0,0,Other,141.21
+Dell,Gaming,Windows,4.42,2000,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Asus,Gaming,Windows,4.3,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Toshiba,Ultrabook,Windows,1.47,512,SSD,Intel Core i7,Nvidia,0,1,Full HD,157.35
+Lenovo,Notebook,No OS,2.2,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Ultrabook,Windows,1.7,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+MSI,Gaming,Windows,1.6,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,157.35
+MSI,Gaming,Windows,2.2,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,2.4,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,Gaming,Windows,4.2,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Gaming,Windows,2.62,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.24,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Vero,Notebook,Windows,1.22,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,157.35
+Lenovo,2 in 1 Convertible,Windows,1.37,512,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+Lenovo,2 in 1 Convertible,Windows,2.08,256,SSD,Intel Core i5,AMD,1,0,Full HD,141.21
+Apple,Ultrabook,Mac OS,0.92,512,Flash Storage,Other Intel Processor,Intel,0,1,Retina,226.42
+Lenovo,2 in 1 Convertible,Windows,1.42,256,SSD,Intel Core i5,Intel,1,1,Other,209.8
+Asus,Notebook,Windows,1.63,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Dell,Notebook,Windows,1.95,128,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.38,256,SSD,Intel Core i7,Intel,1,1,Full HD,158.48
+Dell,Notebook,Windows,2.0,256,SSD,Intel Core i3,AMD,0,0,Full HD,141.21
+HP,Workstation,Windows,3.14,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.37,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.29,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Dell,Notebook,Windows,2.06,256,SSD,Intel Core i5,Nvidia,1,0,4K Ultra HD,282.42
+Dell,Netbook,Windows,1.63,128,SSD,Other Intel Processor,Intel,0,0,Other,135.09
+HP,Netbook,Windows,1.26,256,SSD,Intel Core i5,Intel,0,0,Other,125.37
+Toshiba,Notebook,Windows,2.1,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.04,2000,HDD,AMD Processor,AMD,0,0,Other,100.45
+Dell,Gaming,Windows,2.62,512,SSD,Intel Core i7,Nvidia,0,0,4K Ultra HD,282.42
+Lenovo,Notebook,Windows,2.4,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+HP,Gaming,Windows,3.74,1000,HDD,Intel Core i7,AMD,0,1,Full HD,127.34
+MSI,Gaming,Windows,2.9,1512,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Samsung,Ultrabook,Windows,0.81,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Dell,Notebook,Windows,1.98,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.18,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Lenovo,Ultrabook,Windows,1.32,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Razer,Ultrabook,Windows,1.29,512,SSD,Intel Core i7,Intel,1,1,4K Ultra HD,352.47
+HP,Netbook,Chrome OS,1.23,16,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Dell,Gaming,Windows,4.36,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Notebook,Windows,1.76,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+Lenovo,Notebook,Windows,2.1,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Toshiba,Ultrabook,Windows,1.25,128,SSD,Intel Core i5,Intel,0,0,Other,111.94
+Lenovo,Ultrabook,Windows,1.13,512,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+MSI,Gaming,Windows,2.4,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Lenovo,Ultrabook,Windows,1.13,256,Flash Storage,Intel Core i5,Intel,0,1,Full HD,157.35
+Toshiba,Notebook,Windows,1.75,128,SSD,Other Intel Processor,Intel,0,0,Other,111.94
+Asus,2 in 1 Convertible,Windows,1.1,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+Dell,Notebook,Windows,1.76,500,HDD,Intel Core i3,Intel,0,0,Other,111.94
+Acer,Netbook,Chrome OS,1.35,32,Flash Storage,Other Intel Processor,Intel,0,1,Other,135.09
+Acer,Notebook,Windows,1.5,128,SSD,Intel Core i3,Intel,0,1,Full HD,157.35
+Razer,Gaming,Windows,3.49,512,SSD,Intel Core i7,Nvidia,1,0,4K Ultra HD,254.67
+Lenovo,Ultrabook,Windows,1.1,512,SSD,Intel Core i7,Intel,0,1,Quad HD,209.8
+Asus,Notebook,Linux,2.1,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.7,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,1.32,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Dell,Gaming,Windows,3.21,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.9,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Toshiba,Notebook,Windows,2.0,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,Notebook,Chrome OS,1.5,16,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Asus,Notebook,Windows,2.3,128,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.73,1512,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Gaming,Windows,4.42,1512,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+HP,Notebook,Windows,2.63,1000,HDD,Intel Core i5,Nvidia,0,0,Other,106.11
+Dell,Notebook,Windows,2.18,128,SSD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Ultrabook,Windows,1.54,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.18,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,2 in 1 Convertible,Chrome OS,1.4,32,Flash Storage,Other Intel Processor,Intel,1,0,Other,135.09
+Asus,Ultrabook,Windows,1.45,512,SSD,Intel Core i5,Nvidia,0,1,Full HD,165.63
+HP,2 in 1 Convertible,Windows,1.28,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+HP,Ultrabook,Windows,1.54,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+HP,Notebook,No OS,1.86,128,SSD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,2.1,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.83,1000,HDD,Intel Core i7,AMD,0,0,Full HD,127.34
+Lenovo,Ultrabook,Windows,1.96,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,157.35
+Asus,Notebook,Windows,2.3,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,1.9,128,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,2 in 1 Convertible,Windows,1.28,256,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Dell,Notebook,Windows,1.62,1000,HDD,Intel Core i5,Intel,1,0,Full HD,165.63
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.3,1000,HDD,Intel Core i5,Intel,0,1,Full HD,141.21
+HP,Notebook,Windows,1.84,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+Toshiba,Notebook,Windows,1.05,128,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Lenovo,Gaming,No OS,2.5,1000,HDD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Dell,Ultrabook,Windows,1.29,512,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+HP,Notebook,Windows,2.07,500,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Toshiba,Ultrabook,Windows,1.2,256,SSD,Intel Core i5,Intel,0,0,Other,117.83
+Lenovo,2 in 1 Convertible,Windows,1.37,256,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+Acer,Notebook,Windows,1.56,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Dell,Workstation,Windows,2.23,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.38,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i3,AMD,0,0,Full HD,141.21
+Toshiba,Notebook,Windows,2.0,256,SSD,Intel Core i7,Intel,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,1.44,180,SSD,Intel Core i3,Intel,0,1,Full HD,165.63
+Samsung,Ultrabook,Windows,1.23,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,146.86
+Dell,Ultrabook,Windows,1.6,256,SSD,Intel Core i7,Intel,0,0,Full HD,176.23
+Asus,Notebook,Linux,2.0,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Xiaomi,Ultrabook,Windows,1.28,256,SSD,Intel Core i5,Nvidia,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.18,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.04,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,2 in 1 Convertible,Windows,1.28,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+HP,2 in 1 Convertible,Windows,2.3,500,HDD,Intel Core i5,Intel,1,0,Other,100.45
+Asus,Notebook,Windows,1.65,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.14
+Lenovo,Notebook,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,2 in 1 Convertible,Windows,1.28,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+Dell,Notebook,Linux,2.18,1000,HDD,Intel Core i3,AMD,0,0,Other,100.45
+Asus,Gaming,Windows,2.2,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,127.34
+Acer,Netbook,Chrome OS,1.25,32,Flash Storage,Other Intel Processor,Intel,0,1,Other,135.09
+Lenovo,Notebook,Windows,2.8,500,HDD,AMD Processor,AMD,0,0,Other,106.11
+HP,Notebook,Windows,1.95,128,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,2 in 1 Convertible,Windows,1.42,256,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Samsung,Ultrabook,Windows,1.17,256,SSD,Intel Core i7,Intel,0,0,Full HD,146.86
+Lenovo,Ultrabook,Windows,1.32,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+MSI,Gaming,Windows,2.43,2512,Hybrid,Intel Core i7,Nvidia,0,1,4K Ultra HD,254.67
+Toshiba,Notebook,Windows,1.05,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Dell,Gaming,Linux,2.62,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.04,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i3,AMD,0,0,Other,100.45
+Dell,Notebook,Windows,1.9,500,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.24,512,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Asus,Gaming,Windows,3.58,512,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,2 in 1 Convertible,Windows,1.22,256,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Lenovo,Ultrabook,Windows,1.13,256,Flash Storage,Intel Core i7,Intel,0,1,Full HD,157.35
+Lenovo,Notebook,Windows,1.95,512,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+LG,Ultrabook,Windows,1.08,512,SSD,Intel Core i7,Intel,1,1,Full HD,141.21
+HP,Netbook,Windows,1.26,512,SSD,Intel Core i7,Intel,0,0,Full HD,176.23
+Acer,Notebook,Chrome OS,2.2,16,Flash Storage,Other Intel Processor,Intel,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.6,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+LG,Ultrabook,Windows,0.98,512,SSD,Intel Core i7,Intel,1,1,Full HD,157.35
+Dell,Notebook,Windows,1.6,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Ultrabook,Windows,1.09,240,SSD,Other Intel Processor,Intel,1,0,4K Ultra HD,352.47
+Lenovo,Notebook,Windows,2.2,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.04,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.4,1000,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.44,128,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,1.49,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+MSI,Gaming,Windows,2.7,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Gaming,Windows,2.6,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.2,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i5,AMD,0,0,Other,100.45
+HP,Ultrabook,Windows,1.84,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.39,256,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Toshiba,Notebook,Windows,2.4,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.37,512,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+Dell,Notebook,Windows,1.95,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Ultrabook,Windows,1.36,256,SSD,Intel Core i7,Intel,0,1,Full HD,176.23
+HP,Notebook,Windows,2.31,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.95,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+Lenovo,Notebook,Windows,2.2,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,Ultrabook,Windows,1.26,500,HDD,Intel Core i5,Intel,0,0,Full HD,176.23
+HP,Notebook,No OS,1.86,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.3,1000,SSD,Intel Core i7,Intel,1,1,Quad HD,276.05
+Toshiba,Notebook,Windows,1.47,128,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+HP,Netbook,Windows,1.26,256,SSD,Intel Core i5,Intel,0,0,Full HD,176.23
+Dell,Notebook,Windows,2.18,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+MSI,Gaming,Windows,2.2,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.36,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Dell,Gaming,Windows,4.36,1512,Hybrid,Intel Core i7,Nvidia,0,0,Other,169.78
+HP,Gaming,Windows,2.75,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,127.34
+Asus,Notebook,Windows,2.8,1000,HDD,Other Intel Processor,Nvidia,0,0,Other,106.11
+Acer,Notebook,Windows,2.23,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Toshiba,Notebook,Windows,2.2,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.1,256,SSD,Other Intel Processor,Intel,1,1,Full HD,194.95
+Lenovo,Gaming,Windows,2.5,1512,Hybrid,AMD Processor,AMD,0,1,Full HD,141.21
+Dell,Ultrabook,Windows,1.36,256,SSD,Intel Core i5,Intel,1,0,Full HD,176.23
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.36,1000,HDD,Intel Core i3,AMD,0,0,Other,106.11
+Acer,Notebook,Chrome OS,1.68,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+HP,Workstation,Windows,2.0,8,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Ultrabook,Windows,1.36,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Toshiba,Notebook,Windows,1.2,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Asus,2 in 1 Convertible,Chrome OS,1.2,64,Flash Storage,Other Intel Processor,Intel,0,0,Full HD,176.23
+Lenovo,Ultrabook,Windows,1.7,256,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+Dell,Gaming,Windows,4.36,1512,Hybrid,Intel Core i7,Nvidia,0,1,4K Ultra HD,254.67
+Dell,2 in 1 Convertible,Windows,1.24,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+HP,2 in 1 Convertible,Windows,1.45,256,SSD,Other Intel Processor,Intel,1,0,Other,135.09
+Dell,Ultrabook,Windows,1.3,256,SSD,Intel Core i7,Intel,0,0,Quad HD,276.05
+Acer,2 in 1 Convertible,Chrome OS,1.25,32,Flash Storage,Other Intel Processor,Intel,1,1,Other,135.09
+Toshiba,Notebook,Windows,1.2,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Lenovo,Ultrabook,Windows,1.36,256,SSD,Intel Core i5,Intel,0,1,Full HD,176.23
+Acer,Notebook,Windows,2.4,1128,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Toshiba,Ultrabook,Windows,1.1,512,SSD,Intel Core i7,Intel,1,0,Full HD,176.23
+HP,Notebook,Windows,2.04,1000,HDD,Intel Core i5,Nvidia,0,0,Other,100.45
+Dell,Notebook,Linux,2.25,1000,HDD,Intel Core i3,AMD,0,0,Other,100.45
+Dell,Notebook,Windows,1.9,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.04,500,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+Dell,Gaming,Windows,4.42,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Lenovo,Notebook,Windows,2.4,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.22,512,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Dell,Ultrabook,Windows,1.5,256,SSD,Intel Core i7,Intel,1,0,Other,209.8
+Dell,Gaming,Windows,4.42,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Toshiba,Notebook,Windows,1.95,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Asus,Gaming,Windows,2.73,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Notebook,Windows,2.04,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,1.7,508,Hybrid,Intel Core i5,Intel,0,0,Other,111.94
+Asus,2 in 1 Convertible,Windows,2.3,2512,Hybrid,Intel Core i7,Nvidia,1,0,4K Ultra HD,282.42
+HP,Notebook,Windows,2.04,1000,HDD,Intel Core i7,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,2.99,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,2 in 1 Convertible,Windows,2.19,512,SSD,Intel Core i7,Intel,1,1,Full HD,141.21
+Toshiba,Notebook,Windows,1.2,128,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+Lenovo,Notebook,Windows,2.2,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Fujitsu,Notebook,Windows,2.3,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Toshiba,Notebook,Windows,1.75,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+Dell,Notebook,Windows,2.25,500,HDD,Intel Core i5,AMD,0,0,Other,100.45
+HP,Notebook,Windows,2.04,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,2.5,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,2.36,1000,HDD,Intel Core i7,AMD,0,0,Other,100.45
+Dell,Notebook,Windows,1.6,128,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Netbook,Windows,0.97,512,SSD,Other Intel Processor,Intel,0,0,Full HD,176.23
+HP,Notebook,Windows,2.1,1128,Hybrid,Intel Core i3,AMD,0,0,Full HD,141.21
+Lenovo,Notebook,No OS,1.9,128,SSD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.3,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.68,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+Asus,Notebook,Windows,1.4,256,SSD,Intel Core i5,Intel,0,0,Quad HD,276.05
+HP,Ultrabook,Windows,1.11,256,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+Acer,Notebook,Windows,2.4,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,2.5,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.48,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Acer,Gaming,Windows,2.7,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.34,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.18,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.64,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+Toshiba,Notebook,Windows,1.2,128,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,1.48,256,SSD,Intel Core i5,Intel,0,0,Other,111.94
+HP,Notebook,Windows,1.95,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Ultrabook,Windows,1.43,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.64,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,157.35
+HP,Notebook,Windows,1.64,500,HDD,Intel Core i3,Intel,0,0,Other,111.94
+Dell,Gaming,Windows,2.65,1000,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.26,500,HDD,Intel Core i5,Intel,0,0,Full HD,176.23
+HP,Notebook,Windows,1.48,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Ultrabook,Windows,1.54,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.49,500,HDD,Intel Core i3,Intel,0,0,Other,117.83
+Toshiba,Notebook,Windows,1.5,256,SSD,Intel Core i5,Intel,0,0,Other,117.83
+HP,Notebook,Windows,2.04,256,SSD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.4,512,SSD,Intel Core i7,Nvidia,0,1,4K Ultra HD,254.67
+Toshiba,Notebook,Windows,1.47,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+HP,Notebook,Windows,1.43,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Dell,2 in 1 Convertible,Windows,2.08,1000,HDD,Intel Core i3,Intel,1,1,Full HD,141.21
+Toshiba,Ultrabook,Windows,1.2,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,1.11,256,SSD,Intel Core i5,Intel,0,1,Full HD,165.63
+HP,Notebook,Windows,1.64,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.09,500,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.26,256,SSD,Intel Core i5,Intel,0,0,Other,125.37
+HP,Notebook,Windows,2.31,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+HP,Notebook,Windows,1.95,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+Dell,Ultrabook,Windows,1.29,256,SSD,Intel Core i5,Intel,1,0,Quad HD,276.05
+HP,Notebook,Windows,2.63,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,127.34
+HP,Notebook,Windows,1.64,256,SSD,Intel Core i5,Intel,0,0,Other,111.94
+Acer,Notebook,Windows,2.1,1000,HDD,AMD Processor,AMD,0,0,Other,100.45
+MSI,Gaming,Windows,2.7,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Notebook,Windows,1.95,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.84,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.26,256,SSD,Intel Core i7,Intel,0,0,Full HD,176.23
+HP,Notebook,Windows,2.04,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Toshiba,Ultrabook,Windows,1.47,256,SSD,Intel Core i7,Intel,0,1,Full HD,157.35
+Dell,Notebook,Windows,2.09,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,1.64,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Lenovo,2 in 1 Convertible,Windows,1.8,256,SSD,Intel Core i7,Intel,1,1,Full HD,141.21
+Vero,Notebook,Windows,1.45,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+Toshiba,Notebook,Windows,2.4,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.3,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,1.54,500,HDD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Windows,1.84,756,Hybrid,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,1.43,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+MSI,Gaming,Windows,3.78,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Lenovo,Gaming,Windows,4.6,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Asus,Netbook,Chrome OS,1.2,16,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Lenovo,Notebook,Windows,1.1,256,SSD,Intel Core i7,Intel,0,1,Other,209.8
+HP,Notebook,Windows,1.91,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,2.3,256,SSD,Intel Core i5,Intel,1,1,Full HD,141.21
+HP,Notebook,Windows,2.04,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Dell,Ultrabook,Windows,1.2,1000,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+HP,Notebook,Windows,2.31,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,No OS,1.96,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Acer,Notebook,Windows,2.4,1000,HDD,AMD Processor,AMD,0,0,Other,100.45
+Dell,2 in 1 Convertible,Windows,1.6,256,SSD,Intel Core i7,Intel,1,1,Full HD,165.63
+MSI,Gaming,Windows,2.94,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.04,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+Asus,Gaming,No OS,4.0,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Notebook,Windows,2.25,1000,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.32,2000,HDD,Intel Core i7,AMD,0,0,Full HD,141.21
+MSI,Gaming,Windows,1.8,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.29,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Asus,Gaming,Windows,3.58,1000,SSD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,2 in 1 Convertible,Windows,1.62,256,SSD,Intel Core i7,Intel,1,0,Full HD,165.63
+Dell,Gaming,Windows,3.21,1256,Hybrid,Intel Core i7,Nvidia,0,0,4K Ultra HD,282.42
+Apple,Ultrabook,Mac OS,0.92,256,Flash Storage,Other Intel Processor,Intel,0,1,Retina,226.42
+Dell,Notebook,Windows,2.06,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.31,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Ultrabook,Windows,1.26,256,SSD,Intel Core i5,Intel,0,0,Full HD,176.23
+HP,Notebook,Windows,1.49,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Lenovo,Ultrabook,Windows,1.3,256,SSD,Intel Core i7,Intel,1,1,Full HD,176.23
+Lenovo,Notebook,Windows,3.0,1000,HDD,Intel Core i5,AMD,0,0,Other,106.11
+Lenovo,Notebook,Windows,2.3,1000,HDD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+MSI,Gaming,Windows,3.78,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Notebook,Windows,2.1,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.31,500,HDD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,Ultrabook,Windows,0.99,512,SSD,Other Intel Processor,Intel,1,1,Other,234.98
+Lenovo,Gaming,Windows,4.6,1512,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Lenovo,2 in 1 Convertible,Windows,0.69,64,Flash Storage,Other Intel Processor,Intel,1,1,Other,224.17
+HP,Ultrabook,Windows,1.3,512,SSD,Intel Core i7,Intel,0,1,4K Ultra HD,331.26
+Dell,Notebook,Windows,2.18,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,1.54,500,HDD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Workstation,Windows,1.9,256,SSD,Intel Core i7,AMD,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.7,180,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+HP,Notebook,Chrome OS,1.29,32,Flash Storage,Other Intel Processor,Intel,0,0,Quad HD,276.05
+Acer,Notebook,Windows,2.4,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Dell,Notebook,Linux,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,Notebook,No OS,1.86,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,2.7,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Ultrabook,Windows,1.4,256,SSD,Intel Core i5,AMD,0,1,Full HD,165.63
+HP,Netbook,Windows,2.4,128,SSD,Intel Core i5,Intel,0,0,Other,125.37
+Acer,Notebook,Windows,2.4,1256,Hybrid,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.36,1000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.6,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Notebook,Windows,1.96,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,4.3,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Ultrabook,Windows,1.5,500,HDD,Intel Core i3,Intel,0,0,Other,125.37
+Dell,Ultrabook,Windows,1.5,128,SSD,Intel Core i3,Intel,0,0,Other,125.37
+Acer,Notebook,Chrome OS,2.2,16,SSD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,Workstation,Windows,3.0,1000,HDD,Intel Core i7,AMD,0,1,Full HD,127.34
+Lenovo,Gaming,Windows,2.4,512,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.5,256,SSD,Intel Core i5,Intel,0,0,Other,125.37
+MSI,Gaming,Windows,2.9,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,2 in 1 Convertible,Windows,2.1,256,SSD,Intel Core i5,Intel,1,1,Full HD,141.21
+HP,Notebook,Windows,2.1,1000,HDD,AMD Processor,AMD,0,0,Full HD,141.21
+Asus,Gaming,Windows,2.59,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.16,256,SSD,Other Intel Processor,Intel,1,0,Quad HD,276.05
+Dell,Notebook,Windows,2.24,500,HDD,Intel Core i5,AMD,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.1,128,SSD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Ultrabook,Windows,1.16,512,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Lenovo,2 in 1 Convertible,Android,0.69,64,Flash Storage,Other Intel Processor,Intel,1,1,Other,224.17
+Dell,Ultrabook,Windows,1.23,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Lenovo,Gaming,Windows,4.6,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Razer,Ultrabook,Windows,1.25,256,SSD,Intel Core i7,Intel,1,0,4K Ultra HD,352.47
+Toshiba,Ultrabook,Windows,1.05,512,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Asus,Gaming,Windows,3.52,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Vero,Notebook,Windows,1.35,32,Flash Storage,Other Intel Processor,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,1.16,256,SSD,Intel Core i5,Intel,0,0,Full HD,165.63
+HP,Notebook,Windows,1.43,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Dell,Notebook,Linux,2.09,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,2.0,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.8,256,SSD,Intel Core i7,Intel,1,1,Full HD,157.35
+Lenovo,2 in 1 Convertible,Windows,0.69,64,Flash Storage,Other Intel Processor,Intel,1,1,Other,224.17
+HP,Ultrabook,Windows,1.26,256,SSD,Intel Core i5,Intel,0,0,Other,125.37
+Lenovo,Gaming,No OS,2.4,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,141.21
+HP,Gaming,Windows,3.35,1128,Hybrid,Intel Core i5,Nvidia,0,1,Full HD,127.34
+HP,Notebook,Windows,2.04,2000,HDD,Intel Core i7,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.8,512,SSD,Intel Core i7,Nvidia,1,1,Full HD,157.35
+Asus,Notebook,Windows,1.5,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+HP,Ultrabook,Windows,1.84,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.23,1000,HDD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,2.5,1000,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+HP,Workstation,Windows,3.0,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Notebook,Windows,2.5,1000,HDD,Intel Core i5,AMD,0,0,Other,100.45
+MSI,Gaming,Windows,3.78,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+HP,Ultrabook,Windows,1.88,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,2.8,512,SSD,Intel Core i7,Intel,1,1,Other,209.8
+MSI,Gaming,Windows,2.4,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,2 in 1 Convertible,Windows,1.48,256,SSD,Intel Core i5,Intel,1,0,Full HD,165.63
+HP,Workstation,Windows,2.59,256,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,2 in 1 Convertible,Windows,1.48,256,SSD,Intel Core i7,Intel,1,0,Other,220.84
+HP,Workstation,Windows,2.0,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.26,256,SSD,Intel Core i7,Intel,0,0,Full HD,176.23
+Dell,Notebook,Windows,2.18,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.88,256,SSD,Intel Core i5,Intel,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.27,256,SSD,Intel Core i7,Intel,1,1,Other,209.8
+Lenovo,Notebook,No OS,1.9,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.86,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Lenovo,Notebook,No OS,2.32,1000,HDD,Intel Core i5,AMD,0,0,Full HD,141.21
+Dell,Gaming,Windows,2.62,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.04,256,SSD,Intel Core i5,Nvidia,1,1,4K Ultra HD,282.42
+HP,Notebook,Windows,1.91,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.7,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Lenovo,Ultrabook,Windows,1.4,512,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.5,1000,Hybrid,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,2 in 1 Convertible,Windows,1.48,512,SSD,Intel Core i7,Intel,1,0,Other,220.84
+Lenovo,Ultrabook,Windows,1.7,256,SSD,Intel Core i7,Intel,0,0,Full HD,157.35
+MSI,Gaming,Windows,1.7,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,157.35
+HP,Gaming,Windows,2.62,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+HP,Notebook,No OS,2.1,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Dell,Gaming,Windows,2.62,1128,Hybrid,Intel Core i7,Nvidia,0,0,4K Ultra HD,282.42
+Lenovo,Notebook,Windows,1.95,256,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+Lenovo,Notebook,Windows,2.2,1000,HDD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,1.44,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+MSI,Gaming,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,1.96,256,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+HP,Notebook,Windows,2.1,512,SSD,Intel Core i7,Intel,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Notebook,No OS,2.1,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Notebook,No OS,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Asus,Notebook,Windows,2.0,256,SSD,Intel Core i3,Intel,0,0,Full HD,157.35
+Lenovo,Notebook,Windows,2.32,1000,Hybrid,Intel Core i7,Intel,0,0,Full HD,141.21
+Lenovo,Gaming,Windows,3.31,512,SSD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+MSI,Gaming,Windows,1.91,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.07,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.36,256,SSD,Intel Core i5,Intel,1,1,Other,209.8
+Lenovo,Ultrabook,Windows,1.54,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Linux,1.98,256,SSD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Acer,Notebook,Windows,2.1,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,Notebook,Windows,2.18,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Asus,Gaming,Windows,2.591,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,2.09,512,SSD,Intel Core i7,Intel,1,0,Full HD,141.21
+Acer,Notebook,Windows,2.23,256,SSD,Intel Core i5,Nvidia,0,0,Full HD,141.21
+Dell,Ultrabook,Linux,1.23,256,SSD,Intel Core i5,Intel,1,0,Quad HD,276.05
+Acer,Gaming,Windows,4.2,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Lenovo,Gaming,Windows,2.4,1000,HDD,Intel Core i5,Nvidia,0,1,Full HD,141.21
+Samsung,2 in 1 Convertible,Chrome OS,1.15,32,Flash Storage,AMD Processor,AMD,1,1,Other,234.51
+HP,Notebook,Windows,1.86,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Apple,Ultrabook,Mac OS,0.92,256,Flash Storage,Other Intel Processor,Intel,0,1,Retina,226.42
+Dell,2 in 1 Convertible,Windows,1.6,256,SSD,Intel Core i5,Intel,1,1,Full HD,165.63
+HP,Notebook,Windows,2.21,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,No OS,1.9,1000,HDD,Intel Core i3,AMD,0,0,Other,100.45
+Asus,Gaming,Windows,4.3,1512,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Acer,Notebook,Linux,2.1,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+MSI,Gaming,Windows,2.43,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Dell,Notebook,Windows,2.3,128,SSD,Intel Core i3,AMD,0,0,Other,100.45
+Lenovo,Notebook,No OS,2.2,500,HDD,Intel Core i7,Nvidia,0,0,Other,100.45
+Dell,2 in 1 Convertible,Windows,2.0,512,SSD,Intel Core i7,Intel,1,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.2,512,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Asus,Gaming,Windows,2.2,1000,HDD,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Dell,Notebook,Windows,2.36,256,SSD,Intel Core i5,AMD,0,0,Full HD,141.21
+HP,Notebook,Windows,1.91,256,SSD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.2,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Acer,Notebook,Windows,3.3,1000,HDD,Intel Core i3,Nvidia,0,0,Other,106.11
+Asus,Gaming,Windows,2.2,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Apple,Ultrabook,Mac OS,0.92,512,Flash Storage,Other Intel Processor,Intel,0,1,Retina,226.42
+Asus,Notebook,Windows,2.2,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.43,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,2 in 1 Convertible,Windows,2.191,256,SSD,Intel Core i5,Intel,1,1,Full HD,141.21
+Asus,Gaming,Windows,2.9,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Acer,Netbook,Chrome OS,1.3,32,SSD,Other Intel Processor,Intel,0,0,Other,135.09
+Acer,Notebook,Windows,3.3,1000,HDD,Intel Core i3,Nvidia,0,0,Other,106.11
+Lenovo,Notebook,No OS,2.8,1000,HDD,Intel Core i5,Intel,0,0,Other,106.11
+Lenovo,Gaming,Windows,2.6,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Acer,2 in 1 Convertible,Windows,1.2,256,SSD,Intel Core i7,Intel,1,1,Full HD,157.35
+Lenovo,Notebook,Windows,2.3,256,SSD,Intel Core i7,Intel,0,1,Full HD,141.21
+MSI,Gaming,Windows,2.2,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+HP,Notebook,Windows,2.1,1000,HDD,AMD Processor,AMD,0,0,Full HD,141.21
+Dell,Ultrabook,Windows,1.26,256,SSD,Intel Core i5,Intel,1,0,Full HD,176.23
+Dell,2 in 1 Convertible,Windows,2.08,500,HDD,Intel Core i3,Intel,1,0,Full HD,146.86
+Asus,Notebook,Windows,2.65,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Ultrabook,Windows,1.29,256,SSD,Intel Core i7,Intel,1,0,Quad HD,276.05
+Dell,Notebook,Linux,2.18,1000,HDD,Intel Core i5,Intel,0,0,Other,100.45
+Lenovo,Gaming,Windows,2.6,1128,Hybrid,Intel Core i7,Nvidia,1,1,Full HD,141.21
+MSI,Gaming,Windows,2.2,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Netbook,Windows,1.3,512,SSD,Intel Core i7,Intel,1,1,Full HD,176.23
+Razer,Gaming,Windows,1.95,1000,SSD,Intel Core i7,Nvidia,0,0,Full HD,157.35
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i3,Intel,1,0,Other,100.45
+MSI,Gaming,Windows,2.7,1256,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,127.34
+Apple,Ultrabook,Mac OS,1.08,256,Flash Storage,Intel Core i5,Intel,0,0,Other,135.09
+HP,Notebook,Windows,2.1,1000,HDD,Intel Core i3,Intel,0,0,Full HD,141.21
+HP,Ultrabook,Windows,1.54,256,SSD,Intel Core i7,Intel,0,0,Other,209.8
+Dell,Notebook,Windows,2.24,500,HDD,Intel Core i5,Intel,0,0,Other,100.45
+MSI,Gaming,Windows,2.3,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.4,512,SSD,Intel Core i7,Intel,0,1,Full HD,165.63
+Lenovo,Notebook,Windows,2.2,256,SSD,AMD Processor,AMD,0,0,Full HD,141.21
+Asus,Ultrabook,Windows,1.45,256,SSD,Intel Core i7,Intel,0,0,Full HD,165.63
+Acer,Notebook,Linux,2.4,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Dell,2 in 1 Convertible,Windows,2.77,512,SSD,Intel Core i7,Nvidia,1,0,Full HD,127.34
+HP,Notebook,Windows,1.54,256,SSD,Intel Core i5,Intel,0,0,Full HD,157.35
+Asus,Gaming,Windows,2.5,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Dell,Notebook,Windows,1.6,500,HDD,Intel Core i5,Intel,0,0,Other,111.94
+Asus,Gaming,Windows,2.34,1256,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,141.21
+Lenovo,Notebook,No OS,2.3,256,SSD,Intel Core i5,Intel,0,1,Full HD,141.21
+Dell,2 in 1 Convertible,Windows,1.24,256,SSD,Intel Core i5,Intel,1,0,Quad HD,276.05
+Dell,Notebook,Linux,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+HP,Notebook,Windows,1.86,500,HDD,AMD Processor,AMD,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.4,128,SSD,Intel Core i3,Nvidia,0,0,Full HD,141.21
+Lenovo,Notebook,Windows,1.9,256,SSD,Intel Core i5,Intel,0,1,Full HD,157.35
+Dell,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Notebook,Windows,2.0,1000,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Gaming,Windows,4.0,1128,Hybrid,Intel Core i7,Nvidia,0,1,Full HD,127.34
+Dell,Notebook,Windows,2.29,500,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.32,1000,Hybrid,Intel Core i7,AMD,0,0,Full HD,141.21
+MSI,Gaming,Windows,2.4,1128,Hybrid,Intel Core i7,Nvidia,0,0,Full HD,141.21
+Lenovo,2 in 1 Convertible,Windows,1.8,128,SSD,Intel Core i5,Intel,1,0,Full HD,157.35
+Asus,Ultrabook,Windows,1.2,512,SSD,Other Intel Processor,Intel,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Acer,Notebook,Linux,2.4,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.6,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,2.04,1000,Hybrid,AMD Processor,AMD,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.3,1000,HDD,Intel Core i7,AMD,0,0,Other,100.45
+HP,Netbook,Windows,1.17,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Asus,Notebook,Windows,2.2,500,HDD,Intel Core i7,Nvidia,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.8,128,SSD,Intel Core i7,Intel,1,1,Full HD,157.35
+Lenovo,2 in 1 Convertible,Windows,1.3,512,SSD,Intel Core i7,Intel,1,1,Quad HD,276.05
+Lenovo,Notebook,Windows,1.5,64,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+HP,Notebook,Windows,2.19,1000,HDD,Intel Core i7,AMD,0,0,Other,100.45
+Asus,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Ultrabook,Windows,1.2,512,SSD,Other Intel Processor,Intel,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Acer,Notebook,Linux,2.4,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.6,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,2.04,1000,Hybrid,AMD Processor,AMD,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.3,1000,HDD,Intel Core i7,AMD,0,0,Other,100.45
+HP,Netbook,Windows,1.17,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Asus,Notebook,Windows,2.2,500,HDD,Intel Core i7,Nvidia,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.8,128,SSD,Intel Core i7,Intel,1,1,Full HD,157.35
+Lenovo,2 in 1 Convertible,Windows,1.3,512,SSD,Intel Core i7,Intel,1,1,Quad HD,276.05
+Lenovo,Notebook,Windows,1.5,64,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+HP,Notebook,Windows,2.19,1000,HDD,Intel Core i7,AMD,0,0,Other,100.45
+Asus,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Asus,Ultrabook,Windows,1.2,512,SSD,Other Intel Processor,Intel,0,1,Full HD,165.63
+Dell,Notebook,Windows,2.3,1000,HDD,Intel Core i3,Intel,0,0,Other,100.45
+Acer,Notebook,Linux,2.4,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Dell,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
+Lenovo,Notebook,Windows,2.6,1000,HDD,Intel Core i7,Nvidia,0,1,Full HD,141.21
+HP,Notebook,Windows,2.04,1000,Hybrid,AMD Processor,AMD,0,0,Full HD,141.21
+Dell,Notebook,Linux,2.3,1000,HDD,Intel Core i7,AMD,0,0,Other,100.45
+HP,Netbook,Windows,1.17,32,Flash Storage,Other Intel Processor,Intel,0,0,Other,135.09
+Asus,Notebook,Windows,2.2,500,HDD,Intel Core i7,Nvidia,0,0,Other,100.45
+Lenovo,2 in 1 Convertible,Windows,1.8,128,SSD,Intel Core i7,Intel,1,1,Full HD,157.35
+Lenovo,2 in 1 Convertible,Windows,1.3,512,SSD,Intel Core i7,Intel,1,1,Quad HD,276.05
+Lenovo,Notebook,Windows,1.5,64,Flash Storage,Other Intel Processor,Intel,0,0,Other,111.94
+HP,Notebook,Windows,2.19,1000,HDD,Intel Core i7,AMD,0,0,Other,100.45
+Asus,Notebook,Windows,2.2,500,HDD,Other Intel Processor,Intel,0,0,Other,100.45
